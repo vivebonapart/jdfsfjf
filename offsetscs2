@@ -1,6 +1,6 @@
 {
   "timestamp": 1693740803,
-  "offsets": {
+  "offsetscs2": {
     "entity_list": 23284016,
       "global_vars": 22517432,
       "local_player_controller": 23619184,
