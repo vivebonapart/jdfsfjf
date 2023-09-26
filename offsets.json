@@ -19,7 +19,8 @@
       "dwForceAttack": 22501168,
       "dwForceJump": 22502464,
       "m_iPawnArmor": 2060,
-      "m_bDormant": 231
+      "m_bDormant": 231,
+      "m_fFlags": 968
       
   }
 }
