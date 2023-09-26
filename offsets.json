@@ -17,7 +17,9 @@
       "m_pGameSceneNode": 784,
       "m_boneArray": 128,
       "dwForceAttack": 22501168,
-      "dwForceJump": 22502464
+      "dwForceJump": 22502464,
+      "m_iPawnArmor": 2060,
+      "m_bDormant": 231
       
   }
 }
