@@ -3,7 +3,7 @@
   "offsetscs2": {
       "entity_list": 23248928,
       "global_vars": 22484664,
-      "local_player": 23584096,
+      "localplayer": 24233704,
       "view_angles": 24625008,
       "view_matrix": 24236512,
       "m_hPawn": 1500,
