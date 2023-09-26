@@ -20,7 +20,9 @@
       "dwForceJump": 22502464,
       "m_iPawnArmor": 2060,
       "m_bDormant": 231,
-      "m_fFlags": 968
+      "m_fFlags": 968,
+      "m_iShotsFired": 5160,
+      "m_aimPunchAngle": 5924,
       
   }
 }
