@@ -12,6 +12,12 @@
       "m_iIDEntIndex": 5504,
       "m_iHealth": 812,
       "m_iPawnHealth": 2056,
-      "m_vecOrigin": 4612
+      "m_vecOrigin": 4612,
+      "m_modelState": 352,
+      "m_pGameSceneNode": 784,
+      "m_boneArray": 128,
+      "dwForceAttack": 22501168,
+      "dwForceJump": 22502464
+      
   }
 }
