@@ -27,7 +27,8 @@
       "m_AttributeManager": 4160,
       "m_Item": 80,
       "m_iItemDefinitionIndex": 442,
-      "m_iClip1": 5488
+      "m_iClip1": 5488,
+      "m_sSanitizedPlayerName": 1824
       
   }
 }
