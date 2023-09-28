@@ -17,12 +17,17 @@
       "m_pGameSceneNode": 784,
       "m_boneArray": 128,
       "dwForceAttack": 23673824,
-      "dwForceJump": 22502464,
+      "dwForceJump": 23675120,
       "m_iPawnArmor": 2060,
       "m_bDormant": 231,
       "m_fFlags": 968,
       "m_iShotsFired": 5160,
-      "m_aimPunchAngle": 5924
+      "m_aimPunchAngle": 5924,
+      "m_pClippingWeapon": 4752,
+      "m_AttributeManager": 4160,
+      "m_Item": 80,
+      "m_iItemDefinitionIndex": 442,
+      "m_iClip1": 5488
       
   }
 }
