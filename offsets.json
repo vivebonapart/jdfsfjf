@@ -30,7 +30,7 @@
       "m_iClip1": 5488,
       "m_sSanitizedPlayerName": 1824,
       "m_totalHitsOnServer": 64,
-      "m_flFlashMaxAlpha": 5200
-      
+      "m_flFlashMaxAlpha": 5200,
+      "m_flFlashDuration": 5204,
   }
 }
