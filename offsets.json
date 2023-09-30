@@ -32,6 +32,7 @@
       "m_totalHitsOnServer": 64,
       "m_flFlashMaxAlpha": 5200,
       "m_flFlashDuration": 5204,
-      "m_bGunGameImmunity": 5028
+      "m_bGunGameImmunity": 5028,
+      "m_bSpottedByMask": 12
   }
 }
