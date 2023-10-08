@@ -15,7 +15,7 @@
       "m_vecOrigin": 4628,
       "m_modelState": 352,
       "m_pGameSceneNode": 784,
-      "m_boneArray": 128,
+      "m_bonematrix": 128,
       "dwForceAttack": 23657456,
       "dwForceJump": 23658752,
       "m_iPawnArmor": 2060,
