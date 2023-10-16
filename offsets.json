@@ -35,7 +35,7 @@
       "m_bGunGameImmunity": 5028,
       "m_bSpottedByMask": 12,
       "m_iEntityIndex": 100,
-      "m_entitySpottedState": 3728,
+      "m_entitySpottedState": 5664,
       "m_FOV": 25696560,
       "m_bIsScoped": 5000,
       "m_bStartedArming": 6500,
