@@ -42,6 +42,7 @@
       "m_bIsDefusing": 5008,
       "m_ArmorValue": 5368,
       "m_pObserverServices": 4288,
-      "m_hObserverTarget": 68
+      "m_hObserverTarget": 68,
+      "dwLocalPlayerController": 25053416
   }
 }
