@@ -43,6 +43,7 @@
       "m_ArmorValue": 5368,
       "m_pObserverServices": 4288,
       "m_hObserverTarget": 68,
-      "dwLocalPlayerController": 25063768
+      "dwLocalPlayerController": 25063768,
+      "dwPlantedC4": 25742032
   }
 }
