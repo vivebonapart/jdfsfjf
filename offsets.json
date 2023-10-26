@@ -1,11 +1,11 @@
 {
   "timestamp": 1693740803,
   "offsetscs2": {
-      "entity_list": 24741688, 
-      "global_vars": 23699264,
-      "localplayer": 25713704,
-      "view_angles": 26105664,
-      "view_matrix": 25716496,
+      "entity_list": 24745408, 
+      "global_vars": 23703520,
+      "localplayer": 25717832,
+      "view_angles": 26109808,
+      "view_matrix": 25720624,
       "m_hPawn": 1500,
       "m_hPlayerPawn": 1980,
       "m_iTeamNum": 959,
