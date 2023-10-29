@@ -36,7 +36,7 @@
         "m_iEntityIndex": 1,
         "m_entitySpottedState": 5656,
         "m_FOV": 25696560,
-        "m_bIsScoped": 1,
+        "m_bIsScoped": 5000,
         "m_bStartedArming": 6500,
         "m_bIsDefusing": 5008,
         "m_ArmorValue": 5360,
