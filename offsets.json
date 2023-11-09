@@ -2,7 +2,7 @@
     "offsetscs2": {
         "entity_list": 24828656,
         "global_vars": 23782568,
-        "localplayer": 23827344,
+        "localplayer": 23827352,
         "view_angles": 25604360,
         "view_matrix": 25215216,
         "m_hPawn": 1500,
@@ -15,7 +15,7 @@
         "m_modelState": 352,
         "m_pGameSceneNode": 784,
         "m_boneArray": 128,
-        "dwForceAttack": 23790256,
+        "dwForceAttack": 23798560,
         "dwForceJump": 23799856,
         "m_iPawnArmor": 1996,
         "m_bDormant": 231,
