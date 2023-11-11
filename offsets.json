@@ -43,6 +43,7 @@
         "m_pObserverServices": 4288,
         "m_hObserverTarget": 68,
         "dwLocalPlayerController": 25152952,
-        "dwPlantedC4": 25234632
+        "dwPlantedC4": 25234632,
+        "m_bSpotted": 8
     }
 }
