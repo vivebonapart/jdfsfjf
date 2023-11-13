@@ -44,6 +44,13 @@
         "m_hObserverTarget": 68,
         "dwLocalPlayerController": 25152952,
         "dwPlantedC4": 25234632,
-        "m_bSpotted": 8
+        "m_bSpotted": 8,
+        "m_vecAbsOrigin": 200,
+        "m_nBombSite": 3716,
+        "m_bBombDefused": 3796,
+        "m_bHasExploded": 3765,
+        "m_flC4Blow": 3760,
+        "m_flNextBeep": 3756,
+        "m_flTimerLength": 3768
     }
 }
