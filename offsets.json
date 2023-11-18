@@ -1,10 +1,10 @@
 {
     "offsetscs2": {
-        "entity_list": 24841472,
-        "global_vars": 23794928,
-        "localplayer": 23839928,
-        "view_angles": 25624512,
-        "view_matrix": 25228096,
+        "entity_list": 24841456,
+        "global_vars": 23794912,
+        "localplayer": 23839912,
+        "view_angles": 25624496,
+        "view_matrix": 25228080,
         "m_hPawn": 1548,
         "m_hPlayerPawn": 2028,
         "m_iTeamNum": 959,
