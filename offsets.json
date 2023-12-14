@@ -1,8 +1,8 @@
 {
     "offsetscs2": {
-        "entity_list": 24910048,
+        "entity_list": 24910032,
         "global_vars": 23846424,
-        "localplayer": 23891672,
+        "localplayer": 23891656,
         "view_angles": 25693536,
         "view_matrix": 25297152,
         "m_hPawn": 1548,
@@ -43,7 +43,7 @@
         "m_pObserverServices": 4288,
         "m_hObserverTarget": 68,
         "dwLocalPlayerController": 25152968,
-        "dwPlantedC4": 25316248,
+        "dwPlantedC4": 25316232,
         "m_bSpotted": 8,
         "m_vecAbsOrigin": 200,
         "m_nBombSite": 3716,
